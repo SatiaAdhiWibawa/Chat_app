@@ -1,16 +1,9 @@
-# chatapp
+# Chat_app
+Mobile app - UI Chat App yang dibuat menggunakan Flutter
+Before run this project
+- flutter pub get
 
-A new Flutter project.
+Landing Page for Chat APP using flutter version 3.3.8
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/57993220/235820281-99aadc16-cd38-41bc-9375-a76c0815777f.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
