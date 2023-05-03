@@ -1,0 +1,2 @@
+-Aplikasi Chating seperti tampilan layout whatsapp
+BWA mentor Rifqi eka (Kelas : flutter for designer design to code)
